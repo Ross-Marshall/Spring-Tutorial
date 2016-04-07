@@ -2,13 +2,13 @@ package com.tutorialspoint;
 
 import org.springframework.context.ApplicationEvent;
 
-public class CustomEvent extends ApplicationEvent{
-   
-   public CustomEvent(Object source) {
-      super(source);
-   }
+public class CustomEvent extends ApplicationEvent {
 
-   public String toString(){
-      return "My Custom Event";
-   }
+	public CustomEvent(Object source) {
+		super(source);
+	}
+
+	public String toString() {
+		return "My Custom Event";
+	}
 }
