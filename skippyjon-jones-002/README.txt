@@ -6,7 +6,7 @@
 
    a.  Add the following dependencies:
         commons-validator
-        hibernate
+        hibernate  (3.0.3)
         hibernate-validator
         jstl
-        validation-api
+        validation-api 
