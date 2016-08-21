@@ -31,4 +31,6 @@
    e. Add web.xml file to WEB-INF
    f. Change servlet name in web.xml
    g. Change base-package in skippyjon-servlet.xml
+   h. Add the spring-web dependancy
+   i. Added skippyjon to the display-name and servlet-name in web.xml
    

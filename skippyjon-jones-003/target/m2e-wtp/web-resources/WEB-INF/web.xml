@@ -11,8 +11,8 @@
   </welcome-file-list>
   <servlet>
     <description></description>
-    <display-name>offers</display-name>
-    <servlet-name>offers</servlet-name>
+    <display-name>skippyjon</display-name>
+    <servlet-name>skippyjon</servlet-name>
     <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
     <load-on-startup>1</load-on-startup>
   </servlet>
