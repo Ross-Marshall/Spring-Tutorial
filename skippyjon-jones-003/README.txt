@@ -33,4 +33,5 @@
    g. Change base-package in skippyjon-servlet.xml
    h. Add the spring-web dependancy
    i. Added skippyjon to the display-name and servlet-name in web.xml
+   j. Added spring-core
    
