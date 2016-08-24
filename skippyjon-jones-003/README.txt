@@ -33,5 +33,6 @@
    g. Change base-package in skippyjon-servlet.xml
    h. Add the spring-web dependancy
    i. Added skippyjon to the display-name and servlet-name in web.xml
-   j. Added spring-core
+   j. Added spring-core, spring-context and spring-webmvc all version 4.3.2 removed the default versions from the original install.
+   
    
