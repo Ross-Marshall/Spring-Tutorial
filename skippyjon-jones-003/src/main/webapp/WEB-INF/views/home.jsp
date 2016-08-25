@@ -21,11 +21,11 @@
 
 			<tr>
 				<td>Title:</td>
-				<td><input name="title" type="text" /></td>
+				<td><input name="title" type="text" size="60" /></td>
 			</tr>
 			<tr>
 				<td>Body (portion):</td>
-				<td><input name="body" type="text" /></td>
+				<td><input name="body" type="text"  size="60" /></td>
 			</tr>
 			
 			<tr>
