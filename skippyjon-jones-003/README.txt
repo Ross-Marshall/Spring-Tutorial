@@ -11,7 +11,7 @@
  	  spring-context (Already Loaded with MVC) and spring-tx for core Spring functionalities. 
 
       Notice that I am using version 4.3.2.RELEASE.
-      spring-orm (1.2.6) 1.dependency for Spring ORM support, it’s required for hibernate integration in our spring project.
+      spring-orm (1.2.6) 1.dependency for Spring ORM support, itâ€™s required for hibernate integration in our spring project.
 
       hibernate-entitymanager and hibernate-core dependencies for Hibernate framework. (Final Versions)
       Notice that version is 3.6.9.Final, for using Hibernate 4 all we need is to change it to 4.3.5.Final 
@@ -34,5 +34,6 @@
    h. Add the spring-web dependancy
    i. Added skippyjon to the display-name and servlet-name in web.xml
    j. Added spring-core, spring-context and spring-webmvc all version 4.3.2 removed the default versions from the original install.
+   k. Extend the size of the text fields.
    
    
